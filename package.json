@@ -1,0 +1,17 @@
+{
+  "name": "mmdspyx.bot",
+  "version": "1.0.0",
+  "description": "Bot MMD Spyx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Major Creator",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "discord.js": "^12.2.0",
+    "momen": "0.0.1-security",
+    "node-fetch": "^2.6.1"
+  }
+}
